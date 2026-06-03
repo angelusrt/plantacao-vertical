@@ -40,7 +40,7 @@ especifícações técnicas com o FreeCAD 1.1.1.
 
 ### As dimensões
 
-[Blueprint do vaso](./exports/vaso.svg)
+![Blueprint do vaso](./exports/vaso.svg)
 
 Dimensões:
 - comprimento: 20cm (útil) + 3cm (vãos para 2 tábuas de 15mm)
