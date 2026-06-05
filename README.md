@@ -1,55 +1,69 @@
 ## Plantação vertical para pequenas hortaliças
 
-A ideia do projeto é criar quatro estruturas:
-- A prateleira
-- O vaso conjugado para 4 hortas
+O objetivo desse projeto é criar uma hortaliça com sensores 
+acoplados para monitorar indicadores de crescimento e 
+qualidade, para fins de aprendizado.
+
+Com esse projeto, eu tenho o objetivo de aprender:
+- Marcenaria 
+- Jardinagem
+- IOT
+- Engenharia de Dados
+- Ciência de Dados
+- Gestão de Projetos
+
+A restrição que eu tenho é minimizar o gasto e 
+maximizar aprendizado (priorizando dados).
+
+## O projeto
+
+Meu desejo é ter um vaso de madeira retangular com 4 compatimentos 
+para plantas diferentes.
+
+A ideia do projeto é criar três estruturas:
+- O vaso para 4 hortas
 - A caixa de água
 - E a central de controle (onde ficará o IOT)
-
-O propósito é tanto aprender sobre 
-marcenaria, cultivo e engenharia; como, áreas mais comuns a mim, 
-como: IOT, engenharia e ciência de dados, e engenharia de software.
-
-Meu desejo é ter um vaso de madeira retangular de proporção 4x1, onde 
-eu consiga compartimentalizá-lo, para que eu consiga controlar esses 4 
-compartimentos diferentemente - para a realização de experimentos.
-
-A restrição que eu tenho é minimizar o gasto e maximizar aprendizado (priorizando dados).
 
 ## Lista de compras
 
 Para o hardware:
-- 1 Raspberry PI (~R$600,00)
 - ESP32 (~R$60,00)
 - ESP32-CAM (~R$70,00)
-- 4 sensor capacitivo de umidade do solo (~R$80,00)
-- 1 sensor AHT20 (ou DHT22) (~R$30,00)
-- 4 Servo sg90 (~R$100,00)
-- 4 Bombinhas 5V Mini (R$140,00)
+- Um sensor capacitivo de umidade do solo (~R$80,00)
+- Um sensor AHT20 (~R$30,00)
+- Um Bombinhas 5V Mini (R$35,00)
+- Fonte USB 5V (R$30,00)
+- Módulo relé (R$20,00)
+- Cabos jumper (possuo)
+- Protoboard ou placa perfurada (possuo)
+- Resistores (possuo)
+- lone de plástico (R$20,00)
+- Uma caixinha (R$40,00)
 
 Para o vaso:
-- Madeira de Pinus
-- Mangueiras de 5mm de silicone [especificar metros]
-- Conexões
-- Acrílico
-- Cola de madeira
-- Cola solvente para acrílico
-- Manta EPDM interna
-- Verniz marítimo externo
-
-Para a estante:
-- [A planejar]
+- 5 placas de madeira de Pinus (R$100,00)
+- Cola de madeira (possuo)
+- Verniz marítimo (R$50)
 
 Para a caixa de água:
-- 5 placas de acrílico 
-- Cola de acrílico
+- Um reservatório de plástico genérico (R$40,00)
+- Mangueiras de 5mm de silicone [especificar metros] (R$20,00)
+- Conexões (R$20,00)
 
-## Modelando o vaso
+Substrato:
+- Terra (R$30,00)
+- Húmus de minhoca (R$30,00)
+- Sementes (possuo)
+
+---
+
+## Vaso
 
 A modelagem foi feita com o Blender 5.1.2 e o desenho das 
 especificações técnicas com o FreeCAD 1.1.1.
 
-### As dimensões
+### Dimensões
 
 ![Blueprint do vaso](./exports/vaso.svg)
 
