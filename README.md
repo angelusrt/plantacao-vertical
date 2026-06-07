@@ -25,35 +25,28 @@ A ideia do projeto é criar três estruturas:
 - A caixa de água
 - E a central de controle (onde ficará o IOT)
 
+Por fins economicos, a caixa de água e o sistema de 
+irrigação automático foram excluídos do MVP.
+
 ## Lista de compras
 
 Para o hardware:
-- ESP32 (~R$60,00)
 - ESP32-CAM (~R$70,00)
-- Um sensor capacitivo de umidade do solo (~R$80,00)
 - Um sensor AHT20 (~R$30,00)
-- Um Bombinhas 5V Mini (R$35,00)
 - Fonte USB 5V (R$30,00)
-- Módulo relé (R$20,00)
 - Cabos jumper (possuo)
 - Protoboard ou placa perfurada (possuo)
 - Resistores (possuo)
-- lone de plástico (R$20,00)
-- Uma caixinha (R$40,00)
+- Lona de plástico (R$20,00)
+- Uma caixinha (-improvisar-)
 
 Para o vaso:
 - 5 placas de madeira de Pinus (R$100,00)
 - Cola de madeira (possuo)
 - Verniz marítimo (R$50)
 
-Para a caixa de água:
-- Um reservatório de plástico genérico (R$40,00)
-- Mangueiras de 5mm de silicone [especificar metros] (R$20,00)
-- Conexões (R$20,00)
-
 Substrato:
-- Terra (R$30,00)
-- Húmus de minhoca (R$30,00)
+- Terra pronta (_estimar_)
 - Sementes (possuo)
 
 ---
